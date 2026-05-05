@@ -1,7 +1,7 @@
 export const transformerData = {
   totalFrames: 204,
   scrollLength: "500vh",
-  imageFolderPath: "/images/transformer-sequence/",
+  imageFolderPath: "./images/transformer-sequence/",
   
   // Phase 1: 0% - 30%
   phase1: {
